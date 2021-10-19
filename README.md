@@ -1,4 +1,4 @@
-# NLW-Heat - Tilha Impulse - Backend em Node
+# NLW-Heat - Impulse Track - Node Backend
 
 NLW-Heat backend project with Github OAuth, JWT and Prisma
 
