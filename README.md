@@ -58,3 +58,5 @@ Accessing http://localhost:4000/github will redirect you to github's OAuth page,
 Open Insomnia, import the [Insomnia requests file](tools/Insomnia_Requests_2021-10-21.json) and configure the environment with your oauth code. Execute the available requests to authenticate into the app, post new messages, retrieve the last 3 messages and retrieve your github profile info.
 
 <p align="center"><img alt="Insomnia requests" title="NLW-Heat Impulse Insomnia Requests" src="./.github/insomnia_requests.png" width="720px"/></p>
+
+You can also open the [index page](public/index.html) (a stub of the frontend, used only to check how the websocket connection works) and check the browser console to see the messages arriving through websocket. Whenever you send a new message on Insomnia, the server should send it to the index page which will print it to the console. The server will also print the client id of each user that connects through websocket (which happens whenever a user opens the index page).
