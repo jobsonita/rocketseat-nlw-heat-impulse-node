@@ -13,7 +13,9 @@ Based on [Rocketseat's NLW-Heat design](https://www.figma.com/community/file/103
 - NodeJS
 - Typescript
 - Prisma
+- Github OAuth
 - JWT
+- Axios
 - Websockets
 - Insomnia.REST
 
