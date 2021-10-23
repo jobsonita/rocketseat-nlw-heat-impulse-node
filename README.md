@@ -12,7 +12,7 @@ Based on [Rocketseat's NLW-Heat design](https://www.figma.com/community/file/103
 
 <p align="center"><img alt="Final design for the app" title="NLW-Heat Impulse Final Design" src="./.github/final_design.gif" width="720px"/></p>
 
-## Tecnologies
+## Technologies
 
 - NodeJS
 - Typescript
