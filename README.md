@@ -25,7 +25,7 @@ Based on [Rocketseat's NLW-Heat design](https://www.figma.com/community/file/103
 
 ## Instructions for clonning and running this project
 
-This project is intended for use alongside the frontend clients available at https://github.com/jobsonita/rocketseat-nlw-heat-impulse-web and \[mobile version coming soon\]. After following the instructions below, make sure to also follow the instructions in those other projects to have a fully functional app.
+This project is intended for use alongside the frontend clients available at https://github.com/jobsonita/rocketseat-nlw-heat-impulse-web and https://github.com/jobsonita/rocketseat-nlw-heat-impulse-mobile. After following the instructions below, make sure to also follow the instructions in those other projects to have a fully functional app.
 
 Execute the following commands to get the project up and running:
 
