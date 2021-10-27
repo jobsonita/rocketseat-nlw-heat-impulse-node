@@ -104,6 +104,4 @@ You can also open the [index page](public/index.html) (a stub of the frontend, u
 [![Author: jobsonita](https://avatars.githubusercontent.com/u/1463583?s=48&v=4)](https://github.com/jobsonita/jobsonita) | [Jobson Gilberto](https://github.com/jobsonita/jobsonita)
 -|-
 
-<br />
-
 [![License](https://img.shields.io/github/license/jobsonita/rocketseat-nlw-heat-impulse-node)](LICENSE)
