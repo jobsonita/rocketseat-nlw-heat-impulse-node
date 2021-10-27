@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/jobsonita/rocketseat-nlw-heat-impulse-node?color=blue)](LICENSE)
+![License](https://img.shields.io/github/license/jobsonita/rocketseat-nlw-heat-impulse-node?color=blue)
 ![Node version](https://img.shields.io/badge/node-v14.18.0-brightgreen)
 ![Yarn version](https://img.shields.io/badge/yarn-v1.22.15-brightgreen)
 ![Express version](https://img.shields.io/github/package-json/dependency-version/jobsonita/rocketseat-nlw-heat-impulse-node/express)
