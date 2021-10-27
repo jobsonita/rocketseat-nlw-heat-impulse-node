@@ -101,10 +101,8 @@ You can also open the [index page](public/index.html) (a stub of the frontend, u
 
 ## :memo: Author and License
 
-<a style="display: flex; align-items: center; gap: 12px" href="https://github.com/jobsonita/jobsonita">
-  <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/1463583?s=48&v=4" width="48px" alt="Author: jobsonita" /> 
-  <sub><b>Jobson Gilberto</b></sub>
-</a>
+[![Author: jobsonita](https://avatars.githubusercontent.com/u/1463583?s=48&v=4)](https://github.com/jobsonita/jobsonita) | [Jobson Gilberto](https://github.com/jobsonita/jobsonita)
+-|-
 
 <br />
 
