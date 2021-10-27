@@ -15,10 +15,10 @@
 
 ## :bookmark: Content Table
 <!--ts-->
-  * [App Interface](#app-interface)
-  * [Technologies](#technologies)
-  * [Install and Run](#installing-and-running-this-project)
-  * [Author and License](#author-and-license)
+  * [App Interface](#newspaper-app-interface)
+  * [Technologies](#books-technologies)
+  * [Install and Run](#calling-installing-and-running-this-project)
+  * [Author and License](#memo-author-and-license)
 <!--te-->
 
 ## :newspaper: App Interface
